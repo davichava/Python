@@ -1,0 +1,5 @@
+Identificacion paciente: 1128483539
+Nombre Paciente: Miguel Chavarria
+Edad Paciente: 31
+Telefono Paciente: 3102245697
+Especialidad: Retina

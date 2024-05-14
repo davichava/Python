@@ -1,0 +1,4 @@
+Nombre: Pasta
+Tomar: Beer
+Acompañante: Queso
+Propina: 2000
